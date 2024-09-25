@@ -1,0 +1,5 @@
+# Ignore .obsidian directory
+.obsidian
+
+# Ignore .idea directory
+.idea
