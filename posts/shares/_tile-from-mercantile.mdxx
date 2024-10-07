@@ -1,0 +1,76 @@
+---
+id: bMO
+title: "从mercantile聊聊地图切片"
+title-en: "Map Tile from mercantile"
+date: "2020-08-13T10:57:39.000Z"
+draft: false
+tags: ["python"]
+categories: ["map"]
+---
+
+最近一直在做地图切片相关的工作，结合mercantile简单聊聊。
+
+介绍中mercantile是一个为Spherical （Web）mercator coordinate服务的工具集。Web Mercator 坐标系统因为保留了形状和角度，整个世界看起来像个正方形，一方面它更加美观，另一方面，使得计算机制图更容易[^1]，所以这种投影被广泛用于网络地图制图。其FME官方名字为`SPHERICAL_MERCATOR` 或者 `EPSG: 3857`。
+
+Web Mercator是米为单位的投影，几乎可以包含整个世界区域（纬度-85～85之间）。所以它很适合显示大范围的数据集，但不适合高精度的量测[^2]。
+
+[^1]: [Maptiler](https://www.maptiler.com/google-maps-coordinates-tile-bounds-projection/)
+[^2]: [Spherical or Web Mercator Coordinate System](https://community.safe.com/s/article/spherical-or-web-mercator-coordinate-system)
+
+
+## GRID
+
+取地球半径
+$$
+R_{earth} =  6378137.0
+$$
+则整个平面的长宽取地球的周长
+$$
+C_{earth} = 2*Pi*R_{earth}
+$$
+
+
+对任一`Zoom`等级`Z`，格网组成为
+$$
+2^Z \times 2^Z
+$$
+
+$$
+Tile = （X_i，Y_i，Z），i\in[0,2^Z-1]
+$$
+
+## Tile
+
+一个Tile对象包括
+
+- Z  :  缩放等级
+- X  :  行号
+- Y  :  列号
+
+## Tile Bounds
+
+对于某个瓦片，其在Web Mercator中的外接矩形求法如下：
+
+首先获取该Zoom等级下的每张瓦片的大小：
+
+$$
+Size = \frac{C_{earth}}{2^z}
+$$
+
+左边界为
+
+$$
+left = -\frac{C_{earth}}{2}+X*Size
+$$
+
+上边界为
+
+$$
+top = \frac{C_{earth}}{2}+Y*Size
+$$
+
+此外，右边界和下边界分别为：
+
+$$
+right=left+Size,bottom=top-Size
+$$
