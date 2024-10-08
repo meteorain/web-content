@@ -17,7 +17,7 @@ const posts = defineCollection({
 });
 
 //@ts-ignore
-const notes = defineCollection({
+const docs = defineCollection({
     type: 'content',
     schema: z.object({
         title: z.string(),
@@ -34,6 +34,6 @@ const now = defineCollection({
 
 export const collections = {
     'posts': posts,
-    'notes': notes,
+    'docs': docs,
     'now': now,
 };
