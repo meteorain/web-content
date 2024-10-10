@@ -12,6 +12,7 @@ jobs:
     - name: Trigger deployment via webhook
       run: |
         curl -X POST https://api.github.com/repos/yuhangch/yuhang.ch/dispatches \
-        -H "Accept: application/vnd.github.v3+json" \
-        -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+        -H "Accept: application/vnd.github+json" \
+        -H "X-GitHub-Api-Version: 2022-11-28" \
+        -H "Authorization: Bearer ${{ secrets.CONTENT_DEPLOY_TOKEN }}" \
         -d '{"event_type":"content_update"}'
