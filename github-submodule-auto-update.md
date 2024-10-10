@@ -7,3 +7,5 @@ You can also use a [fine-grained personal access token](https://docs.github.com
 
 - `contents: read & write`
 - `metadata: read only` (automatically selected when selecting the contents permission)
+
+push需要token。
