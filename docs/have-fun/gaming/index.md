@@ -1,5 +1,5 @@
 ---
-title: Gaming Gaming Gaming
+title: Gaming
 ---
 ### network
 
