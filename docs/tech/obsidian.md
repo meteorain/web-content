@@ -18,3 +18,7 @@ title: obsidian
 
 提供新建和编辑MDX的能力。[Edit MDX](https://github.com/timppeters/obsidian-edit-mdx)
 
+
+## image-to-link
+
+自己做的自用小工具。[repo](https://github.com/yuhangch/obsidian-image-to-link)
