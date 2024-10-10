@@ -11,6 +11,7 @@ const posts = defineCollection({
         categories: z.array(z.string()).optional(),
         pubDate:z.date().optional(),
         lastModified: z.date().optional(),
+        notificationTypes: z.array(z.string()).optional(),
         isDraft: z.boolean().optional(),
         url: z.string().optional(),
     })
