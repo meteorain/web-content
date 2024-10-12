@@ -1,11 +1,8 @@
 ---
 title: Movie
 ---
-import {Aside} from '@astrojs/starlight/components'
 
-<Aside>
-    More reviews on [reviews](https://yuhang.ch/reviews/)
-</Aside>
+
 
 [[no-more-bets|孤注一掷]]
 
