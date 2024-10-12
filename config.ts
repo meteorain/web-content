@@ -23,6 +23,7 @@ const docs = defineCollection({
     schema: z.object({
         title: z.string(),
         hidden: z.boolean().optional(),
+        lastModified: z.date().optional(),
     })
 });
 
