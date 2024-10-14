@@ -4,7 +4,7 @@ title: write
 [[weijing|未竟]]
 
 
-[[老博客存档]]
+[[old-blog-archive]]
 [[jam-of-tickets|抢票这门生意]]
 
 [[Hello|# 我又来了]]
