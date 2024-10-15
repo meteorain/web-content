@@ -1,29 +1,31 @@
 ---
 doc_type: weread-highlights-reviews
 bookId: CB_B1O4h84fP6ru6je6kq99v8GM
-author: Tiejun Wen
-cover: https://weread-1258476243.file.myqcloud.com/app/assets/bookcover/book_cover_default_imported_03.png
 reviewCount: 4
 noteCount: 31
+author: Tiejun Wen
+cover: https://weread-1258476243.file.myqcloud.com/app/assets/bookcover/book_cover_default_imported_03.png
 readingStatus: 未标记
 progress: 89%
-totalReadDay: 7
-readingTime: 2小时48分钟
+totalReadDay: 8
+readingTime: 2小时56分钟
 readingDate: 2023-10-11
-isbn: 9789811604553
+isbn: 
 lastReadDate: 2024-03-21
 title: The Political Economy of China’s Development (1949–2020)
 
 ---
 # 元数据
-
+> [!abstract] The Political Economy of China’s Development (1949–2020)
+> - ![ The Political Economy of China’s Development (1949–2020)|200](https://weread-1258476243.file.myqcloud.com/app/assets/bookcover/book_cover_default_imported_03.png)
 > - 书名： The Political Economy of China’s Development (1949–2020)
 > - 作者： Tiejun Wen
 > - 简介： 
-> - 出版时间 
+> - 出版时间： 
 > - ISBN： 
 > - 分类： 
 > - 出版社： Springer Singapore
+> - PC地址：https://weread.qq.com/web/reader/62e42f83643425f42314f346838346650367275366a65366b7139397638474d276
 
 # 高亮划线
 
@@ -35,7 +37,7 @@ title: The Political Economy of China’s Development (1949–2020)
 > 📌 土地、劳动力和资本，这被称为社会主义过渡。 
 > ⏱ 2023-10-11 15:13:15 ^CB-B1O4h84fP6ru6je6kq99v8GM-2-32218-32239
 
-> 📌  在苏联解体后，一系列事件使中国暂时脱离了美国地缘政治议程的优先目标。直到奥巴马政府的亚太再平衡和TPP，美国才明显针对中国。 ^CB-B1O4h84fP6ru6je6kq99v8GM-2-43773-43835
+> 📌 在苏联解体后，一系列事件使中国暂时脱离了美国地缘政治议程的优先目标。直到奥巴马政府的亚太再平衡和TPP，美国才明显针对中国。 ^CB-B1O4h84fP6ru6je6kq99v8GM-2-43773-43835
 - 💭 难得的发展机会。 - ⏱ 2023-10-11 15:32:43 
 
 > 📌 the Americanized knowledge production blinding intellectuals from the reality 
@@ -63,7 +65,7 @@ title: The Political Economy of China’s Development (1949–2020)
 > 📌 新民主主义（国家资本主义）向社会主义的过渡 
 > ⏱ 2023-10-13 11:25:33 ^CB-B1O4h84fP6ru6je6kq99v8GM-4-2845-2866
 
-> 📌  中国、日本、朝鲜、韩国以及越南都属于东亚儒家文化圈。无论他们声称采取什么样的政治和意识形态制度，他们都努力通过在农民中平均分配农业土地来建立一个海绵社会 ^CB-B1O4h84fP6ru6je6kq99v8GM-4-7084-7160
+> 📌 中国、日本、朝鲜、韩国以及越南都属于东亚儒家文化圈。无论他们声称采取什么样的政治和意识形态制度，他们都努力通过在农民中平均分配农业土地来建立一个海绵社会 ^CB-B1O4h84fP6ru6je6kq99v8GM-4-7084-7160
 - 💭 文化大于意识形态 - ⏱ 2023-10-13 11:27:14 
 
 > 📌 人们普遍认为，只要中国在建国初期坚持新民主主义道路，就可以避免经济波动和政治动荡。然而，人们必须记住，这种信念是由历史的去语境化和选择性记忆所支撑的。 
@@ -159,3 +161,4 @@ title: The Political Economy of China’s Development (1949–2020)
     - ⏱ 2023-11-13 06:10:18
    
 # 本书评论
+

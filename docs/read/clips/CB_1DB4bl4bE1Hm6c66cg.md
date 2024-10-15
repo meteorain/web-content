@@ -1,29 +1,31 @@
 ---
 doc_type: weread-highlights-reviews
 bookId: CB_1DB4bl4bE1Hm6c66cg
-author: 温铁军
-cover: https://weread-1258476243.file.myqcloud.com/app/assets/bookcover/book_cover_default_imported_04.png
 reviewCount: 0
 noteCount: 15
+author: 温铁军
+cover: https://weread-1258476243.file.myqcloud.com/app/assets/bookcover/book_cover_default_imported_04.png
 readingStatus: 未标记
 progress: 50%
 totalReadDay: 9
 readingTime: 3小时10分钟
 readingDate: 2022-10-21
-isbn: 9787506055574
+isbn: 
 lastReadDate: 2024-01-17
 title: 八次危机
 
 ---
 # 元数据
+> [!abstract] 八次危机
+> - ![ 八次危机|200](https://weread-1258476243.file.myqcloud.com/app/assets/bookcover/book_cover_default_imported_04.png)
 > - 书名： 八次危机
 > - 作者： 温铁军
 > - 简介： 
-> - 出版时间 
+> - 出版时间： 
 > - ISBN： 
 > - 分类： 
 > - 出版社： 东方出版社
-
+> - PC地址：https://weread.qq.com/web/reader/40f427e2a43425f31444234626c34624531486d366336366367612
 
 # 高亮划线
 
@@ -85,3 +87,4 @@ title: 八次危机
 # 读书笔记
 
 # 本书评论
+
