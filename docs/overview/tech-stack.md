@@ -99,6 +99,6 @@ interface GraphLink {
 
 这样点击编辑按钮通过 slug 检索 note ，直接打开指定的 note ，这样可以在本地调试的时候方便的打开指定的note。
 
-```uri
+```url
 obsidian://open?vault=my%20vault&file=my%20note
 ```
