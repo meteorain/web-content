@@ -23,6 +23,9 @@ categories: ['thought']
 是要做一件“打破顽空”之事，团队才能这样有凝聚力吧，末了，突然我想到百年前也有那么一“支”团队。
 
 
+![wukong](https://static.yuhang.ch/posts/thoughts/unfinished/wukong.webp)
+
+
 ## 未竟，那路在何方？
 
 我是先从视频网站听到《未竟》这首歌的，彼时对于此作的剧情，舆论还在收敛前的发散阶段，在朋友的三言两语中自己对剧情还是有些担心的：当真是二流网文的水平？

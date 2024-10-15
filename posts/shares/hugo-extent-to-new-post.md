@@ -1,11 +1,15 @@
 ---
 id: eBI
-title: '更方便的创建hugo文章'
-title-en: 'Easier Article Creation for Hugo'
+title: 更方便的创建hugo文章
+title-en: Easier Article Creation for Hugo
 pubDate: 2020-06-09T07:24:51.000Z
-isDraft: false
-tags: ['shell', 'hugo', 'blog']
-categories: ['shares']
+isDraft: true
+tags:
+  - shell
+  - hugo
+  - blog
+categories:
+  - shares
 ---
 
 思路：

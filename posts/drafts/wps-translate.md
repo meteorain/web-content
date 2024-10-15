@@ -1,11 +1,14 @@
 ---
 id: dON
-title: 'WPS 2.0 部分翻译'
-title-en: 'WPS 2.0 Translation'
+title: WPS 2.0 部分翻译
+title-en: WPS 2.0 Translation
 pubDate: 2019-11-16T02:53:04.000Z
-isDraft: false
-tags: ['spatial', 'ogc']
-categories: ['translation']
+isDraft: true
+tags:
+  - spatial
+  - ogc
+categories:
+  - translation
 ---
 
 ## WPS
