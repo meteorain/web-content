@@ -1,8 +1,14 @@
 set clipboard=unnamed
 
+
+exmap linter obcommand obsidian-linter:lint-file
+nmap ff :linter
+
 "open link
 exmap openlink obcommand editor:follow-link
-nmap gd :openlink 
+nmap gf :openlink 
+exmap openlinknew obcommand editor:open-link-in-new-leaf
+nmap gn :openlinknew
 "back forward
 exmap back obcommand app:go-back
 nmap H :back
