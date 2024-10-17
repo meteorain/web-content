@@ -1,10 +1,13 @@
 ---
 id: cZq
-title: '花，开山乡'
-title-en: 'Flower Bloom in the Country'
+title: 花，开山乡
+title-en: Flower Bloom in the Country
 pubDate: 2021-10-15T01:34:00.000Z
-tags: ['media', 'social']
-catagories: ['comment']
+tags:
+  - media
+  - social
+categories:
+  - comment
 ---
 
 放在往常，这样一部乡村振兴题材的剧，搭配如此的演员阵容我是断然不会看的，实话实讲，我这人看电视就图一演员，凑巧，前几日看了《功勋 · 能文能武李延年》，对演员王雷颇为喜欢，这才追起了这个剧。整部剧制作水平不俗，只是后期部分关于政策的台词有多处改动，对不上口型，影响了观感。

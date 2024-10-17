@@ -1,11 +1,14 @@
 ---
 id: avb
-title: '在hugo中集成d3.js/Observable Notebook'
-title-en: 'hugo integrate d3.js/Observable Notebook'
+title: 在hugo中集成d3.js/Observable Notebook
+title-en: hugo integrate d3.js/Observable Notebook
 pubDate: 2020-08-11T13:49:02.000Z
 isDraft: true
-tags: ['hugo', 'blog']
-categories: ['笔记']
+tags:
+  - hugo
+  - blog
+categories:
+  - archive
 ---
 
 > 以下图来自https://observablehq.com/@d3/zoom-to-bounding-box
