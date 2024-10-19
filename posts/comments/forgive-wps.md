@@ -9,10 +9,8 @@ tags: ['social']
 categories: ['comment']
 ---
 
-
-:::note{.info}
-可能需要先观看[这期节目](https://www.bilibili.com/video/BV1sT411L7yF), 文尾有节目小窗。
-:::
+> [!NOTE] 提示
+> 可能需要先观看[这期节目](https://www.bilibili.com/video/BV1sT411L7yF), 文尾有节目小窗。
 
 
 ## 我的观点 
