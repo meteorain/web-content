@@ -41,7 +41,7 @@ Fetion插件回归！详情请看[http://www.studiokuma.com/s9y/index.php?/archi
 
 下载地址：
 
-From [LiuWeinan.com](https://spaces.liuweinan.com/MirandaIM.7z)
+From [LiuWeinan.com](https://spaces.liuweinan.com/Picture/MirandaIM.7z)
 
 From [Box.com](https://www.box.com/s/j92m70ormv8thjok2inz)
 

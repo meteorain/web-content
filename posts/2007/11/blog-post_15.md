@@ -11,4 +11,4 @@ categories:
 
 明知不可能，但还是躲进幻想中，不愿去面对。
 
-![](https://spaces.liuweinan.com/897197.png)
+![](https://spaces.liuweinan.com/Picture/897197.png)
