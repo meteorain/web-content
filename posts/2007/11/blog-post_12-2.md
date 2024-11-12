@@ -7,9 +7,9 @@ categories:
 
 先来看两张图：
 
-[![](https://spaces.liuweinan.com/Picture/Screenshot.png)](https://spaces.liuweinan.com/Screenshot.png)
+[![](https://spaces.liuweinan.com/Picture/Screenshot.png)](https://spaces.liuweinan.com/Picture/Screenshot.png)
 
-[![](https://spaces.liuweinan.com/Picture/Screenshot-1.png)](https://spaces.liuweinan.com/Screenshot-1.png)
+[![](https://spaces.liuweinan.com/Picture/Screenshot-1.png)](https://spaces.liuweinan.com/Picture/Screenshot-1.png)
 
 在屏幕左上角运行的是 Ettercap ，它是一款嗅探工具，顺带可以进行 ARP 会话劫持，使整个局域网的网络数据包流经你的电脑，当然你可以选择是转发数据包还是部分阻止甚至全部丢弃，当然后者会使整个局域网瘫痪。这样做的目地就是过滤所有信息从而获取密码和一些敏感信息，简单的未加密账号和口令可以使用 Dsniff 来过滤，如果想获得更多信息可以试试强大的 TCPDump 。
 
