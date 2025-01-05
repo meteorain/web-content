@@ -8,3 +8,10 @@ title: Untitled
 1、 IE中清除数据
 
 2、 重启 Microsoft Account Sign-in Assistant
+
+
+## 恢复权限
+
+```powershell
+takeown /f * /a /r /d y
+```
