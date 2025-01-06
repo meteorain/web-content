@@ -1,3 +1,9 @@
+---
+title: tailscale
+tags: 
+categories: 
+pubDate: 2025-01-0520:11:37
+---
 
 
 
