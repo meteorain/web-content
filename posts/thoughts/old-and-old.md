@@ -8,7 +8,7 @@ tags: ['life']
 categories: ['thought']
 ---
 
-![](https://static.yuhang.ch/blog/old-and-old_1.png)
+![背影](https://static.yuhang.ch/blog/old-and-old_1.png)
 
 昨天傍晚，妈妈蒸了豆沙包子，遣我送些去姥姥家。由于姥姥、姥爷都已是80岁的老人了，饭便都是妈妈和几个姨妈轮流来做，今日轮到了小姨。
 
