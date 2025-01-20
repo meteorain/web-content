@@ -23,7 +23,7 @@ categories: ['thought']
 是要做一件“打破顽空”之事，团队才能这样有凝聚力吧，末了，突然我想到百年前也有那么一“支”团队。
 
 
-![wukong](https://static.yuhang.ch/posts/thoughts/unfinished/wukong.webp)
+![wukong](https://static.chenyuhang.cn/posts/thoughts/unfinished/wukong.webp)
 
 
 ## 未竟，那路在何方？

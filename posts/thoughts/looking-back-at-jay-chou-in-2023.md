@@ -108,13 +108,13 @@ drafts: false
 早期的MV叙事里，他的角色是作为一个普通人，追求同样作为普通人的另一半;是一个年轻人冲破牢笼，向权利发起挑战。
 
 民族情感上，是作为龙的传人，用中国功夫，在外国人的地界找回场子，是李小龙经历的一种精神延续，是一种民族叙事。
-![](https://static.yuhang.ch/blog/looking-back-at-jay-chou-in-2023/double-blade.jpeg)
+![](https://static.chenyuhang.cn/blog/looking-back-at-jay-chou-in-2023/double-blade.jpeg)
 
 到了后面，从`mine mine` 这首歌第一次用英文作为歌名。
 
 MV中的角色逐渐与国外环境完成融合，一方面，没了那种初来乍到的局促感，另一方面，更多的表达出自信，从一个初来乍到的毛头小子。
 变成在市区开着豪车的焦点人物。
-![](https://static.yuhang.ch/blog/looking-back-at-jay-chou-in-2023/mojito.jpeg)
+![](https://static.chenyuhang.cn/blog/looking-back-at-jay-chou-in-2023/mojito.jpeg)
 
 所以在这种情况下的难以共情，问题在我而不在他，这是阶级的问题。 还有一条，分处两岸，势必造成一些世界观方面的差异，当然这些在巨大的阶级差异前面就不足道了。
 

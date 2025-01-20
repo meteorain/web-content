@@ -9,15 +9,15 @@ isDraft: false
 ---
 今年因为工作的原因密集解锁了很多新城市，粗略估计数量比我之前的二十多年到过的还要多。通过轨道在城市间穿梭，经常一天可以在三个城市产生痕迹，从南到北，从东到西，时不时会有种恍惚感，仿佛只是坐着地铁在某个城市中通勤一样。大多数的目的地，从高铁站进去，目的地城市的交通枢纽换乘地铁，之后从地铁口出来，出租车就可以在半个小时之内把我送到目的地，此谓——*轨道上的中国*也。其中更让我印象深刻的是深圳区域的一个目的地，虽是一个“镇”级的单位，居然也是通高铁的，这让一个老家县城都没有高铁站的人倍感羡慕，于是开始期盼自己的家乡何时有同样方便的交通。
 
-![链接远方](https://static.yuhang.ch/posts/thoughts/china-on-the-rails/oh-bridge.webp)
+![链接远方](https://static.chenyuhang.cn/posts/thoughts/china-on-the-rails/oh-bridge.webp)
 
 同样是工作的原因，得以有机会在一些胚胎期的“基建”面前近距离观察，高耸颀长的桥梁被一座座扎实健硕的桥墩连起来，蜿蜒连起面前与远方，远看可能会因为它的规模而感叹，但只有真的站在下面才能切实感受到它的力量和生命力，桩桩座座每一层都是佩戴黄色安全帽的劳动人民用汗水从无到有浇灌长大的，他们戴着被日照和雨淋褪色的安全帽，踩着明显不防穿刺的黑面白底的布鞋，操着五花八门的乡音，在桥墩上爬上爬下，培育着一座座桥，支撑着一个个家庭，但好像不管在主流媒介还是自媒体上他们都像隐身了一样。
 
-![桥之上](https://static.yuhang.ch/posts/thoughts/china-on-the-rails/on-the-bridge.webp)
+![桥之上](https://static.chenyuhang.cn/posts/thoughts/china-on-the-rails/on-the-bridge.webp)
 
 流离在施工现场和城市生活之间，又是另一种错乱。一路之不管乘务人员、做卫生的阿姨、五金店老板、网约车司机、施工现场戴着白红黄色并各司其职的工作人员，突然让“周末”这个从小清晰的概念模糊起来，这似乎只是一小部分人的“特权”，不过停到师傅们还有十几天可以放“寒假”了，倒不免有些羡慕。
 
-![灯光如太阳升起](https://static.yuhang.ch/posts/thoughts/china-on-the-rails/light-like-sunrise.webp)
+![灯光如太阳升起](https://static.chenyuhang.cn/posts/thoughts/china-on-the-rails/light-like-sunrise.webp)
 
 背着书包，踩着轻轻拂过就会扬起黄土的地面，走出某块“世外之地”的时候，月亮照着我，我看着“太阳”，有了这么句感慨：从南到北，我好像看到基建强国的后面还写着四个大字：人民万岁。
 
