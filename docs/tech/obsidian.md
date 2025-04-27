@@ -27,8 +27,7 @@ title: obsidian
 ## obcommand
 
 
-```txt
-editor:follow-link
+```editor:follow-link
 editor:open-link-in-new-leaf
 editor:open-link-in-new-window
 workspace:toggle-pin
