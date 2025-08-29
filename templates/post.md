@@ -2,6 +2,6 @@
 title: title
 tags: 
 categories: 
-pubDate: "{{date}}T{{time}}"
+pubDate: "{{date}}{{time}}"
 isDraft: true
 ---

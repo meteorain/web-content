@@ -1,6 +1,0 @@
----
-title: office
----
-[[excel]]
-
-[[word]]
