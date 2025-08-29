@@ -11,7 +11,7 @@ jobs:
     steps:
     - name: Trigger deployment via webhook
       run: |
-        curl -X POST https://api.github.com/repos/yuhangch/yuhang.ch/dispatches \
+        curl -X POST https://api.github.com/repos/meteorain/liuweinan.com/dispatches \
         -H "Accept: application/vnd.github+json" \
         -H "X-GitHub-Api-Version: 2022-11-28" \
         -H "Authorization: Bearer ${{ secrets.CONTENT_DEPLOY_TOKEN }}" \
